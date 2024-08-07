@@ -1,0 +1,8 @@
+full_numpy_bitmap_circle.npy
+full_numpy_bitmap_hexagon.npy
+full_numpy_bitmap_line.npy
+full_numpy_bitmap_octagon.npy
+full_numpy_bitmap_square.npy
+full_numpy_bitmap_star.npy
+full_numpy_bitmap_triangle.npy
+suitcase.npy
